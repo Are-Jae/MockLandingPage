@@ -1,0 +1,73 @@
+body{
+    background-color: F8F0E3;
+}
+
+h2{
+
+    text-align: center;
+  
+    
+}
+
+ul{
+
+    list-style-type: none;
+    border: auto;
+
+    border-style: dashed;
+    border-color: black;
+    border-width: auto;
+   padding: auto;
+    
+    
+}
+
+.nav{
+   
+}
+
+.github{ background-color: yellow;
+
+
+}
+
+
+.portfolio{
+    background-color: white;
+
+
+}
+
+.portlink{ 
+
+    color:black;
+}
+
+
+
+.linkedin{
+
+    background-color: purple;
+  
+
+
+}
+
+
+.linklink{
+
+    color: white;
+}
+
+
+
+
+
+
+figure{
+
+    
+    text-align: center;
+
+}
+
